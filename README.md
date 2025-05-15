@@ -60,5 +60,5 @@ lib/
 
 ## 👤 Autor
 
-Desarrollado por **[María José Mendieta Ortiz]**   
-🌐 [https://github.com/MariaJoseMendieta]
+Desarrollado por **María José Mendieta Ortiz**   
+🌐 https://github.com/MariaJoseMendieta
