@@ -12,7 +12,7 @@ Clima App es una aplicación móvil desarrollada en Flutter que permite al usuar
 <p align="center">
   <img src="img1.png" width="200"/>
   <img src="img2.png" width="200"/>
-  <img src="img3.png" width="200"/>
+  <img src="img3.png" width="207"/>
 </p>
 
 ---
