@@ -8,6 +8,14 @@ Clima App es una aplicación móvil desarrollada en Flutter que permite al usuar
 
 ---
 
+## 👁 Vista App
+<p align="center">
+  <img src="img1.png" width="200"/>
+  <img src="img2.png" width="200"/>
+  <img src="img3.png" width="200"/>
+</p>
+
+---
 ## Funcionalidades Principales
 
 - **Obtener clima de la ubicación actual**: La aplicación puede obtener automáticamente el clima de la ubicación actual del usuario mediante el uso de la geolocalización.
